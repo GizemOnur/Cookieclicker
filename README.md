@@ -1,5 +1,7 @@
 # Cookie-Clicker
 
+[Link to The Cookie-Cliker] (https://gizemonur.github.io/The-Cookie-Clicker/)
+
 # Welcome to our cookies fabric!!!! :jack_o_lantern: :ghost: :cookie:
 
 <img src="https://www.dish-works.com/wp-content/uploads/Ghost-cookies.gif" alt="drawing" width="700" height="600"/>
