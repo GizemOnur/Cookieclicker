@@ -1,6 +1,6 @@
 # Cookie-Clicker
 
-##[Link to The Cookie-Cliker](https://gizemonur.github.io/The-Cookie-Clicker/)
+## [Link to The Cookie-Cliker](https://gizemonur.github.io/The-Cookie-Clicker/)
 
 # Welcome to our cookies fabric!!!! :jack_o_lantern: :ghost: :cookie:
 
